@@ -48,11 +48,11 @@ I'm always exploring innovative technologies like **blockchain**, **AI integrati
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nolwensean&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naesmal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nolwensean&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naesmal&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -60,7 +60,7 @@ I'm always exploring innovative technologies like **blockchain**, **AI integrati
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolwensean&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naesmal&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -68,7 +68,7 @@ I'm always exploring innovative technologies like **blockchain**, **AI integrati
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/nolwensean/nolwensean/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/Naesmal/Naesmal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -76,22 +76,22 @@ I'm always exploring innovative technologies like **blockchain**, **AI integrati
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nolwensean/">
+  <a href="https://www.linkedin.com/in/Naesmal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/nolwensean">
+  <a href="https://twitter.com/Naesmal">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://dev.to/nolwensean">
+  <a href="https://dev.to/Naesmal">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="mailto:contact@nolwensean.dev">
+  <a href="mailto:contact@Naesmal.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nolwensean&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Naesmal&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
