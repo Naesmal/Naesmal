@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Bot+Maker+%7C+Chrome+Extensions;Blockchain+%26+AI+Explorer;Tech+Problem+Solver;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Bot+Maker;Chrome+Extensions;Blockchain+%26+AI+Explorer;Tech+Problem+Solver;Always+Learning..." alt="Typing SVG" />
 </div>
 
 ---
