@@ -65,40 +65,28 @@ I'm always exploring innovative technologies like **blockchain**, **AI integrati
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake.svg"
-    />
-    <img 
-      alt="github contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/VOTRE_USERNAME/VOTRE_USERNAME/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Naesmal/">
+  <!-- <a href="https://www.linkedin.com/in/Naesmal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Naesmal">
+  </a> -->
+  <a href="https://twitter.com/0x___eth">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://dev.to/Naesmal">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <!-- <a href="https://t.me/VOTRE_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a> -->
+  <a href="https://wa.me/+22954652693">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:contact@Naesmal.dev">
+  <a href="https://discordapp.com/users/naesmal">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+ <!-- <a href="https://dev.to/Naesmal">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a> -->
+  <a href="mailto:seannolwenhnt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
