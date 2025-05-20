@@ -52,7 +52,7 @@ I'm always exploring innovative technologies like **blockchain**, **AI integrati
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naesmal&theme=ocean-dark&hide_border=true" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Naesmal)](https://git.io/streak-stats)
 </div>
 
 ---
