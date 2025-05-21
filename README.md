@@ -52,7 +52,7 @@ I'm always exploring innovative technologies like **blockchain**, **AI integrati
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TON-USERNAME&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Naesmal&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
 </div>
 
 ---
